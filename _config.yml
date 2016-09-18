@@ -1,9 +1,10 @@
-typography_spectrum: 0.020504505140706897
+layout_spectrum: 0.17807209212332964
+typography_spectrum: 0.7322472066152841
 color:
-  brandStrength: 0.6369981628376991
-  lightness: 0.9967952317092568
-  saturation: 0.12576797977089882
-  rhythmicContrast: 0.7800328417215496
+  brandStrength: 0.591277573723346
+  lightness: 0.6964866102207452
+  saturation: 0.5558508178219199
+  rhythmicContrast: 0.11604918795637786
   brandColors:
     - '#000000'
     - '#333333'
@@ -15,7 +16,6 @@ opengraph:
   appId: 'https://www.facebook.com/ShweYeeMomFashion/'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/a72db5d8-8f58-4c0b-8310-a3b8989ed620.png
-layout_spectrum: 0.5679424882400781
 analytics:
   facebook: null
 author:
