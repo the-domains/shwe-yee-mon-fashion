@@ -1,0 +1,36 @@
+typography_spectrum: 0.020504505140706897
+color:
+  brandStrength: 0.6369981628376991
+  lightness: 0.9967952317092568
+  saturation: 0.12576797977089882
+  rhythmicContrast: 0.7800328417215496
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+github: true
+opengraph:
+  appId: 'https://www.facebook.com/ShweYeeMomFashion/'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/a72db5d8-8f58-4c0b-8310-a3b8989ed620.png
+layout_spectrum: 0.5679424882400781
+analytics:
+  facebook: null
+author:
+  name: 'Shwe Yee Mon '
+  email: ''
+  url: 'https://www.facebook.com/ShweYeeMomFashion/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7829836f-aa32-4212-946f-cd34e34676d0.png
+name: Shwe Yee Mon Fashion ( ေရႊရည္မြန္ )
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d80f2fad-7a4a-48a0-a870-47c6adaf54cf.png
+purpose:
+  - type: external
+    url: 'https://www.facebook.com/ShweYeeMomFashion/'
+    label: Facebook Page
+  - type: contact
+    url: 'tel:09420094638'
+    label: ဖုန္းဆက္ရန္
