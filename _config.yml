@@ -1,4 +1,3 @@
-layout_spectrum: 0.17807209212332964
 typography_spectrum: 0.7322472066152841
 color:
   brandStrength: 0.591277573723346
@@ -16,6 +15,7 @@ opengraph:
   appId: 'https://www.facebook.com/ShweYeeMomFashion/'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/a72db5d8-8f58-4c0b-8310-a3b8989ed620.png
+layout_spectrum: 0.17807209212332964
 analytics:
   facebook: null
 author:
@@ -28,6 +28,7 @@ name: ( ေရႊရည္မြန္ )
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d80f2fad-7a4a-48a0-a870-47c6adaf54cf.png
 title: Shwe Yee Mon Fashion
+content: []
 description: ( ေရႊရည္မြန္ )
 purpose:
   - type: external
